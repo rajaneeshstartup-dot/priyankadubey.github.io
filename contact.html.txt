@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Contact – Tuition Dahisar East</title>
+<link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+<header class="header small">
+<h1>Contact Us</h1>
+</header>
+
+<nav class="nav">
+<a href="index.html">Home</a>
+<a href="about.html">About</a>
+<a href="classes.html">Classes</a>
+<a href="contact.html">Contact</a>
+</nav>
+
+<section class="content center">
+
+<form action="https://formspree.io/f/YOUR_FORM_ID" method="POST" class="contact-form">
+<input type="text" name="name" placeholder="Name" required>
+<input type="tel" name="phone" placeholder="Mobile Number" required>
+<select name="class">
+<option>Nursery / KG</option>
+<option>1st – 5th</option>
+<option>6th – 8th</option>
+<option>9th – 10th</option>
+</select>
+<textarea name="message" placeholder="Message"></textarea>
+<button type="submit">Send Enquiry</button>
+</form>
+
+</section>
+
+<footer>© Priyanka Dubey Learning Academy</footer>
+</body>
+</html>

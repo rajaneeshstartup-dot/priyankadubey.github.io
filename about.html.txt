@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>About – Priyanka Dubey Learning Academy</title>
+<link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+<header class="header small">
+<h1>About the Teacher</h1>
+</header>
+
+<nav class="nav">
+<a href="index.html">Home</a>
+<a href="about.html">About</a>
+<a href="classes.html">Classes</a>
+<a href="contact.html">Contact</a>
+</nav>
+
+<section class="content">
+<p><strong>Priyanka Dubey</strong> is a passionate educator with more than <strong>13 years of teaching experience</strong>.</p>
+
+<p>Qualified in <strong>NET, SET, TET, CTET</strong>. Focus on concept clarity, confidence building and exam success.</p>
+
+<p><strong>Location:</strong> Dahisar East, Mumbai</p>
+</section>
+
+<footer>© Priyanka Dubey Learning Academy</footer>
+</body>
+</html>

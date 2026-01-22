@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Priyanka Dubey Learning Academy – Tuition Classes in Dahisar East</title>
+
+<meta name="description" content="Tuition classes in Dahisar East for Nursery to 10th (CBSE, ICSE & Maharashtra Board). 13+ years experience. Call or WhatsApp now.">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<link rel="stylesheet" href="css/style.css">
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;600;800&display=swap" rel="stylesheet">
+</head>
+
+<body>
+
+<header class="header">
+<h1>Priyanka Dubey Learning Academy</h1>
+<p>Dahisar East | Nursery to 10th | CBSE • ICSE • Maharashtra Board</p>
+</header>
+
+<nav class="nav">
+<a href="index.html">Home</a>
+<a href="about.html">About</a>
+<a href="classes.html">Classes</a>
+<a href="contact.html">Contact</a>
+</nav>
+
+<section class="hero">
+<h2>Quality Tuition for Nursery to 10th</h2>
+<p>13+ Years Experience | NET • SET • TET • CTET Qualified</p>
+
+<a class="btn whatsapp" target="_blank"
+href="https://wa.me/919892247590?text=Hello%20Ma’am,%20I%20found%20Priyanka%20Dubey%20Learning%20Academy%20website.%20I%20am%20looking%20for%20tuition%20for%20my%20child.%20Please%20contact%20me.">
+💬 WhatsApp Now
+</a>
+</section>
+
+<section class="features">
+<div class="box">👶 Nursery & KG – Play Way Learning</div>
+<div class="box">📘 CBSE / ICSE / State Board</div>
+<div class="box">🎯 Personal Attention</div>
+<div class="box">🏆 Exam-Focused Teaching</div>
+</section>
+
+<section class="testimonials">
+<h2>What Parents Say</h2>
+
+<div class="testimonial-box">
+“Excellent teaching and personal attention. Highly recommended.”
+<br><strong>– Parent (Class 5)</strong>
+</div>
+
+<div class="testimonial-box">
+“Very clear explanation for Maths and Science.”
+<br><strong>– Parent (Class 10)</strong>
+</div>
+</section>
+
+<a class="whatsapp-float" target="_blank"
+href="https://wa.me/919892247590?text=Hello%20Ma’am,%20I%20found%20Priyanka%20Dubey%20Learning%20Academy%20website.%20I%20am%20looking%20for%20tuition%20for%20my%20child.%20Please%20contact%20me.">
+💬
+</a>
+
+<footer>
+© 2026 Priyanka Dubey Learning Academy – Dahisar East
+</footer>
+
+</body>
+</html>
